@@ -1,0 +1,1 @@
+MYSQL klasörü php dosyaları ile beraber değildir. Ayrıyeten php dosyaları içinde beraber eklenmesi için sql dosyası konulmuştur.
